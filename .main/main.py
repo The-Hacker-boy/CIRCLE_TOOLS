@@ -1,4 +1,4 @@
-# Codded By Ariful Islam Arman (ARU)
+# Coded by AHESAN
 # writen With python
 import os, time, sys, random,webbrowser
 # Color Value
@@ -35,13 +35,13 @@ def banner_win():
     r = random.choice(colorArr)
     u = random.choice(colorArr)
     logo = f'''
-
-{a}	 █████╗   {r}  ██████╗  {u}   ██╗   ██╗
-{a}	██╔══██╗  {r}  ██╔══██╗ {u}   ██║   ██║
-{a}	███████║  {r}  ██████╔╝ {u}   ██║   ██║
-{a}	██╔══██║  {r}  ██╔══██╗ {u}   ██║   ██║
-{a}	██║  ██║  {r}  ██║  ██║ {u}   ╚██████╔╝
-{a}	╚═╝  ╚═╝  {r}  ╚═╝  ╚═╝ {u}    ╚═════╝ '''
+▄▄     ▄▄    ▄▄  ▄▄▄▄▄▄▄▄    ▄▄▄▄       ▄▄     ▄▄▄   ▄▄
+   ████    ██    ██  ██▀▀▀▀▀▀  ▄█▀▀▀▀█     ████    ███   ██
+   ████    ██    ██  ██        ██▄         ████    ██▀█  ██
+  ██  ██   ████████  ███████    ▀████▄    ██  ██   ██ ██ ██
+  ██████   ██    ██  ██             ▀██   ██████   ██  █▄██
+ ▄██  ██▄  ██    ██  ██▄▄▄▄▄▄  █▄▄▄▄▄█▀  ▄██  ██▄  ██   ███
+ ▀▀    ▀▀  ▀▀    ▀▀  ▀▀▀▀▀▀▀▀   ▀▀▀▀▀    ▀▀    ▀▀  ▀▀   ▀▀▀ '''
     textInfo = random.choice(colorArr)+'''
     	╔═══════════════════════════════╗
 	║	   CIRCLE TOOLS    	║
